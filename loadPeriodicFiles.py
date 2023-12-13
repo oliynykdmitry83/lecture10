@@ -95,7 +95,7 @@ for i in range(numElementName-10, numElementName):  # Show the last 10 rows
 '''
 
 ''' Now load the File containing detailed record for first 40 elements'''
-El1to40Fields, El1to40Name=loadCsvFile (myPath + "periodicTable1to40.csv")
+El1to40Fields, El1to40Name=loadCsvFile (myPath + "periodicTable1to40-2.csv")
 
 ''' Used for diagnostic purposes during development
 numEl1to40Name = len(El1to40Name)
