@@ -1,4 +1,5 @@
 import csv
+
 def loadCsvFile (fileNam):
     ''' Reads a csv file specified as the only argument.
         Uses the reader method from Python csv module.
